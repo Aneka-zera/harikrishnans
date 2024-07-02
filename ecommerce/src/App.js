@@ -39,7 +39,6 @@ function App() {
                     & Orders</button>
                 <div class="cart">
                     <i class="fas fa-shopping-cart"></i>
-                    <span>0</span>
                 </div>
             </div>
         </div>
