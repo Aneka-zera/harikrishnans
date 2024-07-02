@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logoo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -22,8 +21,7 @@ function App() {
     <header>
         <div class="container">
             <div class="logo">
-                <img src="C:\Users\harik\Mern\harikrishnans\ecommerce\public\images\Study Materials\1000107008-h.webp" />
-                <img src="harikrishnans\ecommerce\public\images\Study Materials\_fad40a76-c679-4c76-8e22-8ec973ec596f.jpeg" />
+                <img src="https://icons.veryicon.com/png/o/miscellaneous/flower-mall-color-icon/shopping-cart-114.png"/>
             </div>
             <div class="location">
                 <p>HARIKRISHNANS</p>
@@ -83,11 +81,11 @@ function App() {
                     <h2>Revamp your home in style</h2>
                     <div class="category-items">
                         <div class="category-item">
-                            <img src="D:\Study Materials\NavyBlue_A_650x.webp" />
+                            <img src="https://m.media-amazon.com/images/I/81HbLNd2aqL._AC_UF894,1000_QL80_.jpg" />
                             <p>Cushion covers, bedsheets & more</p>
                         </div>
                         <div class="category-item">
-                            <img src="https://github.com/harikrishnan-ps/images/blob/master/612-fQtxDVL._AC_UF1000%2C1000_QL80_.jpg" />
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzvik-Ylm4GYCK1koyEN4FEfv_y5TCTLZoiA&s" />
                             <p>Figurines, vases & more</p>
                         </div>
                         <div class="category-item">
