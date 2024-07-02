@@ -89,11 +89,11 @@ function App() {
                             <p>Figurines, vases & more</p>
                         </div>
                         <div class="category-item">
-                            <img src="D:\Study Materials\shopping.webp" />
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-FBRNNqhfroObYOJ3xbcbrb9qidIubDm_g&s" />
                             <p>Home storage</p>
                         </div>
                         <div class="category-item">
-                            <img src="D:\Study Materials\shopping (1).webp" />
+                            <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTe8qSoWkh2dXmONO8IhCPiOdUmLBk4A4xGN7a1RdwiDCyUEcNImJ6wcNkptFTfaBxPzZ5S8rK99BF5tWifKK9xQH1OUYWxw&usqp=CAE" />
                             <p>Lighting solutions</p>
                         </div>
                     </div>
@@ -103,19 +103,19 @@ function App() {
                     <h2>Appliances for your home | Up to 55% off</h2>
                     <div class="category-items">
                         <div class="category-item">
-                            <img src="D:\Study Materials\shopping (2).webp" />
+                            <img src="https://img3.exportersindia.com/product_images/bc-full/dir_153/4571808/room-wall-air-conditioner-1497420516-3063967.jpeg" />
                             <p>Air conditioners</p>
                         </div>
                         <div class="category-item">
-                            <img src="D:\Study Materials\in-ref-convertible-freezer-rf57a5032s9-tl-436322271.avif" />
+                            <img src="https://images.samsung.com/is/image/samsung/p6pim/in/rf57a5032s9-tl/gallery/in-ref-convertible-freezer-rf57a5032s9-tl-436322271?$1300_1038_PNG$" />
                             <p>Refrigerators</p>
                         </div>
                         <div class="category-item">
-                            <img src="D:\Study Materials\shopping (3).webp" />
+                            <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWJxtqY1uoBI-fC71YXU5ZV58xad_hgndnk-_4CK36zz2R018n_BXIWJtz0E2O88XWACYIg-xB0a7pOemXbw4in-eEqH7DNwznbPr9uRcEctoSzoBQyg9-&usqp=CAEp" />
                             <p>Microwaves</p>
                         </div>
                         <div class="category-item">
-                            <img src="D:\Study Materials\in-front-loading-washer-ww10t534daws1-374541-374541-ww80t504dax1tl-538070792.webp" />
+                            <img src="https://images.samsung.com/is/image/samsung/p6pim/in/ww80t504dax1tl/gallery/in-front-loading-washer-ww10t534daws1-374541-374541-ww80t504dax1tl-538070792?$1300_1038_PNG$" />
                             <p>Washing machines</p>
                         </div>
                     </div>
