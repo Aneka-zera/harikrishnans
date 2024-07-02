@@ -22,8 +22,8 @@ function App() {
     <header>
         <div class="container">
             <div class="logo">
-                <img src="D:\Study Materials\1000107008-h.webp" />
-                <img src="https://raw.githubusercontent.com/harikrishnan-ps/images/master/_fad40a76-c679-4c76-8e22-8ec973ec596f.jpeg" />
+                <img src="harikrishnans\ecommerce\public\images\Study Materials\1000107008-h.webp" />
+                <img src="harikrishnans\ecommerce\public\images\Study Materials\_fad40a76-c679-4c76-8e22-8ec973ec596f.jpeg" />
             </div>
             <div class="location">
                 <p>HARIKRISHNANS</p>
