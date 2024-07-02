@@ -50,7 +50,7 @@ color: rgb(0, 0, 0);
 
 .container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 20px;
   background-image: linear-gradient(
@@ -79,7 +79,7 @@ header {
 }
 
 .location button {
-  background-color: #f0f0f0;
+  background-color: #139ed0;
   border: none;
   padding: 5px 10px;
   border-radius: 5px;
@@ -132,15 +132,7 @@ header {
   font-size: 20px;
 }
 
-.cart span {
-  background-color: #f00;
-  color: #fff;
-  padding: 2px 5px;
-  border-radius: 50%;
-  position: absolute;
-  top: -5px;
-  right: -5px;
-}
+
 
 /* Navigation Styling */
 nav {
