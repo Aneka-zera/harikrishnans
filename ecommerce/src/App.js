@@ -22,7 +22,7 @@ function App() {
     <header>
         <div class="container">
             <div class="logo">
-                <img src="harikrishnans\ecommerce\public\images\Study Materials\1000107008-h.webp" />
+                <img src="C:\Users\harik\Mern\harikrishnans\ecommerce\public\images\Study Materials\1000107008-h.webp" />
                 <img src="harikrishnans\ecommerce\public\images\Study Materials\_fad40a76-c679-4c76-8e22-8ec973ec596f.jpeg" />
             </div>
             <div class="location">
